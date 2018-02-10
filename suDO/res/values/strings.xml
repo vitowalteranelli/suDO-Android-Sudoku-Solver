@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">suDo! Nerdy app name</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">This is an academical work designed to show a real implementation of a solver for a CSP \" Constraints Satisfaction Problem \". \n Yeah. Stop talking about boring stuff. \n 1. You must take a photo of the grid of the Sudoku.</string>
+    <string name="title_activity_second">Checking the grid</string>
+    <string name="album_name">Sudoku</string>
+    <string name="cannot">nono</string>
+    <string name="title_activity_third">Detecting Digits</string>
+    <string name="text_hint">Detected text</string>
+    <string name="title_activity_fourth">Checking detection mistakes</string>
+    <string name="dialog_fire_missiles">Damn! A mistake! Select the right one!</string>
+    <string name="fire">Correct it!</string>
+    <string name="cancel">Another time</string>
+    <string name="title_activity_fifth">Welcome to the Dark Side</string>
+    <string name="hello_second">2. If this image is the black grounded grid of your Sudoku we can go on. \n Perhaps if you are awful taking photo you should take it again. \n Remember: \"Strong hand, take the grid, Focus yourself \" (it helps, sometimes)</string>
+    <string name="hello_third">3. I have to detect digits instead of you. Yeah i don\'t like it. Always numbers. It\'s boring but they said me Engineers love them. Frustrated People. Click Detection for it and then we can go on. </string>
+    <string name="hello_fourth">Nope, i\'m not perfect. It\'s possible that you can find detection mistakes. \n People think i\'m perfect SO DON\'T say anything about it. \n Otherwise.. It was your guilt, no doubts!</string>
+    <string name="hello_fifth">Yeah, your boring Sudoku was solved. Now you owe me a coffee. (Didn\'t i say it?)  You should, you have, you MUST offer me a coffee. </string>
+
+</resources>
