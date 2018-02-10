@@ -3,7 +3,7 @@ This is an Android project that let the user to take a photo to a Sudoku grid an
 
 This project was created when I was a student of the course Logics and Artificial Intelligence.
 
-If you are interested with it contact me:
+If you are interested in it contact me:
 
 [Vito Walter Anelli](http://sisinflab.poliba.it/anelli/)  
 
